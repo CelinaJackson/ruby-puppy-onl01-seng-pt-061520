@@ -27,3 +27,6 @@ class Dog
      @@all << self
   end
 end
+
+bernie = Dog.new("Bernie")
+bernie.save
