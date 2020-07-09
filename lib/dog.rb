@@ -26,7 +26,7 @@ class Dog
    def save
      @@all << self
   end
+  bernie = Dog.new("Bernie")
+  bernie.name
 end
 
-bernie = Dog.new("Bernie")
-bernie.name
