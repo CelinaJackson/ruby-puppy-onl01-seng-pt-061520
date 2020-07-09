@@ -27,5 +27,5 @@ class Dog
      @@all << self
   end
   bernie = Dog.new("Bernie")
-  bernie.name
+
 end
