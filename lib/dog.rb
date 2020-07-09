@@ -29,4 +29,3 @@ class Dog
   bernie = Dog.new("Bernie")
   bernie.name
 end
-
