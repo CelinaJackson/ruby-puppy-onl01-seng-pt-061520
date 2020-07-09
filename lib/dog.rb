@@ -29,4 +29,4 @@ class Dog
 end
 
 bernie = Dog.new("Bernie")
-bernie.save
+bernie.name
